@@ -1,5 +1,5 @@
-**#ishowspeed Museum**
-#Gif Auditorium 
+#ishowspeed Museum
+#Gif Auditorium
 [theshowspeedverse]
 #Biography
 [speedfiles]
