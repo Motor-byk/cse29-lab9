@@ -1,5 +1,5 @@
 # **ishowspeed Museum**
 # Gif Auditorium
-[theshowspeedverse]
+[theshowspeedverse] https://motor-byk.github.io/cse29-lab9/speedgal
 # Biography
 [speedfiles]
