@@ -1,1 +1,1 @@
-[SpeedFacetwh](./speedfacewth.png)
+[SpeedFacetwh](./speedfacewth.jpg)
